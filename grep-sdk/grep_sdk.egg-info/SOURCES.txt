@@ -1,0 +1,8 @@
+setup.py
+grep/__init__.py
+grep/client.py
+grep_sdk.egg-info/PKG-INFO
+grep_sdk.egg-info/SOURCES.txt
+grep_sdk.egg-info/dependency_links.txt
+grep_sdk.egg-info/requires.txt
+grep_sdk.egg-info/top_level.txt

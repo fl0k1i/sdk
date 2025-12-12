@@ -1,0 +1,8 @@
+# Core dependencies for Grep SDK
+traceloop-sdk>=0.49.2
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+opentelemetry-exporter-otlp-proto-http>=1.20.0
+
+# Optional: for better error messages
+colorama>=0.4.6
