@@ -20,11 +20,11 @@ setup(
     name="grep-sdk",
     version="0.1.0",
     author="Grep Team",
-    author_email="support@grep.com",  # Update with your email
+    author_email="support@grep2.com",  # Update with your email
     description="LLM Observability SDK for Grep Platform",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/grep-sdk",  # Update with your repo
+    url="https://github.com/fl0k1i/grep-sdk",  # Update with your repo
     
     # Package discovery
     packages=find_packages(),
